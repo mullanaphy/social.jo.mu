@@ -1,7 +1,7 @@
 <?php
   $socialMedia = [
     'chess' => 'https://chess.com/member/YourBoyKandy',
-    'discord' => 'https://discord.gg/4hcTyDZ',
+    'discord' => 'https://discord.gg/rMzdpTU',
     'github' => 'https://github.com/mullanaphy',
     'instagram' => 'https://instagram.com/YourBoyKandy',
     'linkedin' => 'https://linkedin.com/in/mullanaphy',
