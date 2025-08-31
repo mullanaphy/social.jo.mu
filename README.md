@@ -1,4 +1,4 @@
-[social.jo.mu](https://social.jo.mu/)
+[social.john.mu](https://social.john.mu/)
 ================================================================================
 
 An extension of my personal blog at [john.mu](john.mu) this links to all of my
@@ -10,7 +10,7 @@ that point to the original username.
 Requirements
 ------------
 
-- PHP 5.4+
+- PHP 5.4+ *(and probably a lot older PHP as well)*
 
 Submitting bugs and feature requests
 ------------------------------------
