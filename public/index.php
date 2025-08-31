@@ -61,7 +61,7 @@
       '<div class="container">',
         '<ul class="list-unstyled">',
           '<li><a href="https://john.mu"><i class="fas fa-home"></i> john.mu</a></li>',
-          '<li><a href="https://github.jo.mu/social.jo.mu" rel="nofollow"><i class="fab fa-github-alt"></i> Source Code</a></li>',
+          '<li><a href="https://github.john.mu/social.john.mu" rel="nofollow"><i class="fab fa-github-alt"></i> Source Code</a></li>',
         '</ul>',
       '</div>',
     '</body>',
