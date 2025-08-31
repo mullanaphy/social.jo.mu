@@ -16,7 +16,7 @@ Submitting bugs and feature requests
 ------------------------------------
 
 Please send bugs to me via
-[GitHub](https://github.com/mullanaphy/social.jo.mu/issues)
+[GitHub](https://github.com/mullanaphy/social.john.mu/issues)
 
 Author
 ------
